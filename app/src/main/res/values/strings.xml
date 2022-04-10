@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Demo Application</string>
+    <string name="this_is_first_activity">This is First Activity</string>
+    <string name="enter_first_name">Enter First Name</string>
+    <string name="enter_last_name">Enter Last Name</string>
+    <string name="submit">Submit</string>
+    <string name="this_is_second_activity">This is Second Activity</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="back">Back</string>
+</resources>
